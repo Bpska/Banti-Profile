@@ -1,193 +1,179 @@
 export const config = {
     developer: {
-        name: "Redoyanul",
-        fullName: "Redoyanul Haque",
-        title: "AI & Full-Stack Developer",
-        description: "AI & Full-Stack Developer building intelligent systems and modern web applications. Passionate about machine learning, deep learning, and creating next-gen autonomous agents."
+        name: "Swayam",
+        fullName: "Swayam Siddharth Sahoo",
+        title: "Creative Graphic Designer & Video Editor",
+        description: "Creative Graphic Designer and Video Editor focused on building strong brand identities through stunning visuals, engaging content, and professional video production."
     },
     social: {
-        github: "red1-for-hek",
-        email: "redoyanul1234@gmail.com",
-        location: "Bangladesh"
+        github: "",
+        email: "siddharthsahoo420@gmail.com",
+        location: "Chandaka, Bhubaneswar, Odisha, India"
     },
     about: {
         title: "About Me",
-        description: "I am a self-taught AI & Full-Stack Developer from Bangladesh. I build intelligent systems, chatbots, and modern web applications. My expertise includes Machine Learning, Deep Learning, NLP, and Full-Stack Web Development with React, Node.js, and Python. Currently building next-gen AI Agents and JARVIS-like Personal Assistants. I have a competitive programming mindset and a deep passion for automation. Code is poetry, AI is the canvas."
+        description: "Creative Graphic Designer and Video Editor with 2+ years of experience focused on building strong brand identities through stunning visuals, engaging content, and professional video production. Dedicated to crafting designs that inspire, communicate, and deliver results."
+    },
+    contact: {
+        email: "siddharthsahoo420@gmail.com",
+        phone: "+91 8093632981",
+        github: "",
+        linkedin: "https://www.linkedin.com/in/swayam-siddharth-sahoo-569454263?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+        twitter: "",
+        facebook: "",
+        instagram: "https://www.instagram.com/ecellnalanda"
     },
     experiences: [
         {
-            position: "Learning Something New",
-            company: "Self-Development",
-            period: "2025 - Present",
-            location: "Bangladesh",
-            description: "Continuously exploring emerging technologies, researching advanced AI systems, and pushing the boundaries of what's possible in tech.",
+            position: "Creative Designer",
+            company: "Nalanda Institute of Technology",
+            period: "2026 - Present",
+            location: "Bhubaneswar, Odisha, India",
+            description: "Currently working as a creative designer at Nalanda Institute of Technology, handling design and content work for the institute.",
             responsibilities: [
-                "Researching cutting-edge AI and ML technologies",
-                "Experimenting with new frameworks and tools",
-                "Contributing to open-source projects",
-                "Building innovative personal projects"
+                "Designing posters, banners, and visual content",
+                "Creating creative assets for events and campaigns",
+                "Collaborating with the institute's creative team"
             ],
-            technologies: ["Research", "Innovation", "Open Source", "New Tech"]
-        },
-        {
-            position: "AI Engineer",
-            company: "Freelance & Projects",
-            period: "2025",
-            location: "Bangladesh",
-            description: "Developing intelligent AI systems, chatbots, and machine learning solutions. Building next-gen conversational AI agents and JARVIS-like personal assistants.",
-            responsibilities: [
-                "Building AI-powered chatbots and conversational agents",
-                "Developing machine learning models with TensorFlow and PyTorch",
-                "Working with LLMs and transformer architectures",
-                "Creating autonomous AI systems and automation tools"
-            ],
-            technologies: ["Python", "TensorFlow", "PyTorch", "LLMs", "NLP", "AI Agents"]
-        },
-        {
-            position: "Full-Stack Developer",
-            company: "Freelance & Projects",
-            period: "2024",
-            location: "Bangladesh",
-            description: "Built complete web applications from frontend to backend. Developed responsive UIs, RESTful APIs, and database solutions for various clients and projects.",
-            responsibilities: [
-                "Developing full-stack web applications using React and Node.js",
-                "Building RESTful APIs and integrating databases",
-                "Creating responsive and interactive user interfaces",
-                "Deploying and maintaining web applications"
-            ],
-            technologies: ["React", "Node.js", "MongoDB", "Express", "Next.js", "TypeScript"]
-        },
-        {
-            position: "Python Developer",
-            company: "Self-Taught & Projects",
-            period: "2023",
-            location: "Bangladesh",
-            description: "Dove deep into Python programming, building automation scripts, bots, and mastering the fundamentals of software development and problem-solving.",
-            responsibilities: [
-                "Learning Python programming and core concepts",
-                "Building automation scripts and Discord bots",
-                "Exploring data structures and algorithms",
-                "Participating in competitive programming"
-            ],
-            technologies: ["Python", "Automation", "Scripting", "Discord.py", "Problem Solving"]
+            technologies: ["Photoshop", "Illustrator", "Canva", "Premiere Pro", "CapCut"]
         },
         {
             position: "Graphic Designer",
-            company: "Freelance",
-            period: "2022",
-            location: "Bangladesh",
-            description: "Started my creative journey as a graphic designer, creating logos, banners, and visual content. This sparked my passion for technology and digital creation.",
+            company: "Lealava Technology PVT LTD",
+            period: "2026",
+            location: "India",
+            description: "Worked on poster designs and ad creatives for the brand across digital campaigns.",
             responsibilities: [
-                "Designing logos and brand identity materials",
-                "Creating social media graphics and banners",
-                "Working with clients on creative projects",
-                "Learning design principles and visual aesthetics"
+                "Designing posters and ad creatives",
+                "Creating marketing visuals for campaigns",
+                "Collaborating with the marketing team on brand communication"
             ],
-            technologies: ["Photoshop", "Illustrator", "Canva", "Figma", "Visual Design"]
+            technologies: ["Photoshop", "Illustrator", "Canva", "Premiere Pro", "After Effects"]
         },
         {
-            position: "Microsoft Office",
-            company: "Begin Learning",
-            period: "2021",
-            location: "Bangladesh",
-            description: "Started my journey into the digital world by learning Microsoft Office tools. This foundational step introduced me to computers and sparked my curiosity for technology.",
+            position: "Content Creator",
+            company: "Logisaar Technology PVT LTD",
+            period: "2025 - 2025",
+            location: "India",
+            description: "Worked as a content creator for the company, producing creative content for digital platforms and brand communication.",
             responsibilities: [
-                "Learning Microsoft Word, Excel, and PowerPoint",
-                "Creating documents and presentations",
-                "Understanding basic computer operations",
-                "Building foundational digital skills"
+                "Creating engaging content for social media and digital platforms",
+                "Developing content strategies and creative campaigns",
+                "Producing visual and video content aligned with brand voice"
             ],
-            technologies: ["MS Word", "MS Excel", "MS PowerPoint", "Computer Basics"]
+            technologies: ["Photoshop", "Canva", "Premiere Pro", "After Effects", "CapCut"]
+        },
+        {
+            position: "Creative Designer",
+            company: "E-Cell Nalanda",
+            period: "2023 - 2024",
+            location: "Bhubaneswar, Odisha, India",
+            description: "Part of the creative team at E-Cell Nalanda, designing posters, videos, and ad creatives for events and social media. Managed the official Instagram handle for 6 months.",
+            responsibilities: [
+                "Designing event posters and social media creatives",
+                "Editing promotional videos and reels",
+                "Creating ad creatives for campaigns",
+                "Managing the official Instagram account and content calendar"
+            ],
+            technologies: ["Photoshop", "Illustrator", "Canva", "Premiere Pro", "CapCut", "After Effects"],
+            link: "https://www.instagram.com/ecellnalanda"
         }
     ],
     projects: [
         {
             id: 1,
-            title: "Drishti",
-            category: "AI / LLM",
-            technologies: "Python, PyTorch, Transformers, FastAPI, React, MongoDB",
-            image: "/images/drishti.png",
-            description: "Bangladesh's first intelligent advanced AI chatbot powered by a custom Large Language Model. Features natural language understanding, contextual conversations, and multilingual support including Bengali."
+            title: "NIT Admission Open 2026-27",
+            category: "Poster Design",
+            technologies: "Photoshop, Illustrator, Canva",
+            image: "/images/work/nit-admission-1.webp",
+            description: "Admission Open 2026-27 poster for Nalanda Institute of Technology, Bhubaneswar. Lists Undergraduate (B.Tech, BBA, BCA, Diploma) and Postgraduate (M.Tech, MBA, MCA, M.Sc) programmes with NAAC A+ accreditation and contact details.",
+            link: "https://www.instagram.com/nalandabbsr"
         },
         {
             id: 2,
-            title: "VoteChain",
-            category: "Blockchain",
-            technologies: "Solidity, Web3.js, React, Ethereum, IPFS, MetaMask, Node.js",
-            image: "/images/votechain.png",
-            description: "A decentralized election system built on blockchain technology ensuring transparent, tamper-proof, and verifiable voting. Features smart contracts for vote integrity and real-time result tracking."
+            title: "NIT Apply Now 2026-27",
+            category: "Poster Design",
+            technologies: "Photoshop, Canva",
+            image: "/images/work/nit-admission-2.webp",
+            description: "Apply Now 2026-27 admission poster for Nalanda Institute of Technology. Highlights 100% Guaranteed Placement and the wide range of programmes on offer.",
+            link: "https://www.instagram.com/nalandabbsr"
         },
         {
             id: 3,
-            title: "EIE - Earthquake Impact Estimator",
-            category: "IoT / Hardware",
-            technologies: "Arduino, C++, IoT Sensors, Python, ML, React",
-            image: "/images/eie.png",
-            description: "A practical circuit-based IoT system utilizing Arduino to predict earthquakes before they strike. Integrates hardware sensors for real-time seismic detection and impact estimation."
+            title: "NIT Programmes Offered",
+            category: "Poster Design",
+            technologies: "Photoshop, Illustrator",
+            image: "/images/work/nit-admission-3.webp",
+            description: "Programmes Offered poster for Nalanda Institute of Technology admission campaign. Highlights B.Tech, M.Tech, MBA, MCA, BBA, BCA, M.Sc, and Diploma with 100% Guaranteed Placement.",
+            link: "https://www.instagram.com/nalandabbsr"
         },
         {
             id: 4,
-            title: "GameKroy",
-            category: "Full Stack",
-            technologies: "React, Node.js, MongoDB, Express, Stripe, TailwindCSS",
-            image: "/images/gamekroy.png",
-            description: "A full-featured e-commerce platform for gaming products. Includes user authentication, product catalog, shopping cart, secure payments, order tracking, and admin dashboard."
+            title: "Education Means Nalanda",
+            category: "Poster Design",
+            technologies: "Photoshop, Canva",
+            image: "/images/work/education-means-nalanda.webp",
+            description: "Brand awareness poster for Nalanda Institute of Technology with the tagline 'All you need is Education, & Education Means Nalanda'. Includes 80+ Acres Campus, 300+ Recruiters, 19+ Years of Excellence.",
+            link: "https://www.instagram.com/nalandabbsr"
         },
         {
             id: 5,
-            title: "RedxChess",
-            category: "AI / Game Engine",
-            technologies: "Python, C++, Neural Networks, Bitboards, UCI Protocol",
-            image: "/images/redxchess.png",
-            description: "A high-performance chess engine rated 3640 ELO. Features advanced search algorithms, neural network evaluation, and optimized bitboard representation for lightning-fast move generation."
+            title: "Why Choose Management Course",
+            category: "Poster Design",
+            technologies: "Photoshop, Canva",
+            image: "/images/work/management-course.webp",
+            description: "BBA & MBA admission poster for Nalanda Institute of Technology. Highlights industry-relevant curriculum, experienced faculty, global network opportunities, 100% placement, and 100% scholarship.",
+            link: "https://www.instagram.com/nalandabbsr"
         },
         {
             id: 6,
-            title: "Floodhub",
-            category: "AI / ML",
-            technologies: "Python, TensorFlow, Pandas, React, FastAPI, GIS",
-            image: "/images/floodhub.png",
-            description: "A flood prediction model specifically designed for Bangladesh's river systems. Analyzes weather patterns, water levels, and historical data to provide accurate flood forecasts and alerts."
+            title: "Sai Sampurna Creation - Music Cover",
+            category: "Music Cover Art",
+            technologies: "Photoshop",
+            image: "/images/work/sai-sampurna-cover.webp",
+            description: "Music cover art designed for Sai Sampurna Creation's Odia release. Cinematic composition featuring the artist in studio and a romantic seaside scene. Credits: Singer Prabhasini Das, Lyrics Ranjita Mishra, Music Kumar Bapuni.",
+            link: "https://www.instagram.com/reel/DDUU5VyS6IG/"
         },
         {
             id: 7,
-            title: "Phoenix",
-            category: "AI Assistant",
-            technologies: "Python, Speech Recognition, PyAutoGUI, OpenAI API, Tkinter",
-            image: "/images/phoenix.png",
-            description: "A JARVIS-inspired personal AI desktop assistant. Controls system functions, manages tasks, answers queries, automates workflows, and provides voice-activated computing experience."
+            title: "Dil Ne Tere - Music Cover",
+            category: "Music Cover Art",
+            technologies: "Photoshop",
+            image: "/images/work/dil-ne-tere-cover.webp",
+            description: "Music cover art for Gramophone Records' 'Dil Ne Tere'. Romantic sunset composition with the artists in a recording session. Credits: Singers LP Ananya & Shailesh Sonu, Music & Lyrics Shashikant Telang.",
+            link: "https://www.instagram.com/reel/DVQLMvaEZQJ/"
         },
         {
             id: 8,
-            title: "HekTools",
-            category: "Security / Android",
-            technologies: "Kotlin, Android SDK, Firebase, Python, Encryption",
-            image: "/images/hektools.png",
-            description: "An advanced Android monitoring and security research tool. Features remote device management, activity logging, and encrypted data transmission for security testing purposes."
+            title: "3P Creation - Sajibe Mote Bhala Paei",
+            category: "Music Cover Art",
+            technologies: "Photoshop",
+            image: "/images/work/3p-creation-cover.webp",
+            description: "Music cover art for 3P Creation's Odia single 'Sajibe Mote Bhala Paei'. Cinematic dark composition with the duo singers. Credits: Singers Manoj Kumar S & Sneha, Lyrics B.M. Bhuyan, Music D K Hira, Producer Prativa J.",
+            link: "https://www.instagram.com/3p_creation"
+        },
+        {
+            id: 9,
+            title: "Sai Sampurna Creation - Cover 2",
+            category: "Music Cover Art",
+            technologies: "Photoshop",
+            image: "/images/work/sai-sampurna-cover-2.webp",
+            description: "Alternate music cover for a Sai Sampurna Creation Odia release. Atmospheric composition with a temple-and-seaside theme. Credits: Singer Prabhasini Das, Lyrics Ranjita Mishra, Music Kumar Bapuni, Recording SRM Studio.",
+            link: "https://www.instagram.com/reel/DDUU5VyS6IG/"
         }
     ],
-    contact: {
-        email: "redoyanul1234@gmail.com",
-        github: "https://github.com/red1-for-hek",
-        linkedin: "https://linkedin.com/in/red1-for-hek",
-        twitter: "https://x.com/red_1_ul",
-        facebook: "https://www.facebook.com/redoyanulhaque.hacker.official",
-        instagram: "https://www.instagram.com/red_1_ul"
-    },
     skills: {
         develop: {
-            title: "AI DEVELOPER",
-            description: "Building intelligent systems & AI solutions",
-            details: "Developing AI agents, chatbots, and machine learning models using Python, TensorFlow, and PyTorch. Specializing in LLMs, NLP, deep learning, and autonomous systems.",
-            tools: ["Python", "TensorFlow", "PyTorch", "OpenCV", "Scikit-learn", "LLMs", "NLP", "Deep Learning", "Chatbots", "AI Agents"]
+            title: "GRAPHIC DESIGNER",
+            description: "Building strong brand identities through stunning visuals",
+            details: "Designing logos, social media graphics, brand identity materials, posters, banners, and visual content that communicates and inspires.",
+            tools: ["Photoshop", "Illustrator", "Canva", "Figma", "CorelDRAW", "InDesign", "After Effects", "Premiere Pro", "DaVinci Resolve", "CapCut"]
         },
         design: {
-            title: "FULL-STACK",
-            description: "Modern web development & scalable applications",
-            details: "Building responsive and performant web applications using React, Next.js, Node.js, and databases. Creating seamless user experiences with modern UI/UX principles.",
-            tools: ["React", "Next.js", "Node.js", "TypeScript", "MongoDB", "PostgreSQL", "TailwindCSS", "REST APIs", "Docker", "Git"]
+            title: "VIDEO EDITOR",
+            description: "Crafting engaging content and professional video production",
+            details: "Editing cinematic videos, reels, YouTube content, social media videos, motion graphics, and brand promos with storytelling and rhythm.",
+            tools: ["Premiere Pro", "After Effects", "DaVinci Resolve", "CapCut", "Final Cut Pro", "Photoshop", "Illustrator", "Figma"]
         }
     }
 };
-
-

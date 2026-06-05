@@ -1,99 +1,72 @@
-# 🚀 3D Developer Portfolio Website (React + TypeScript + Three.js)
+# Swayam Siddharth Sahoo - Portfolio Website
 
-[![3D portfolio preview (click to watch video)](./Screenshot_2026-04-08_22-10-00.png)](./screen-capture%20(13).webm)
+A modern, high-performance **3D portfolio website** built with **React**, **TypeScript**, **Three.js**, **GSAP**, and **WebGL**.
 
-A modern, high-performance **3D developer portfolio website** built with **React**, **TypeScript**, **Three.js**, **GSAP**, and **WebGL**.
-
-If you’re a developer looking for a **portfolio template** that feels premium, interactive, and memorable—this repo is for you.
-
-> Live preview: https://www.redoyanulhaque.me/
+Showcasing the work of **Swayam Siddharth Sahoo** — Creative Graphic Designer & Video Editor based in Bhubaneswar, Odisha, India.
 
 ---
 
-## ✨ Highlights
+## Highlights
 
 - **3D / WebGL experience** powered by **Three.js**
 - Smooth animations with **GSAP**
 - Modern **React + TypeScript** codebase
 - Fast, responsive UI (desktop + mobile)
-- Designed for developers, engineers, programmers, and creators
+- Designed for a designer's portfolio
 
 ---
 
-## 🧰 Tech Stack
+## Tools Used
 
-- **React**
-- **TypeScript**
-- **Three.js / WebGL**
-- **GSAP**
-- **HTML / CSS / JavaScript**
+- **Canva**, **Adobe Photoshop**, **Adobe Illustrator**, **Figma**
+- **Adobe Express**, **CorelDRAW**, **DaVinci Resolve**, **CapCut**
+- **Adobe XD**, **Sketch**, **Framer**
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### 1) Clone
-
-```bash
-git clone https://github.com/red1-for-hek/portfolio-website.git
-cd portfolio-website
-```
-
-### 2) Install
-
+### 1) Install
 ```bash
 npm install
 ```
 
-### 3) Run locally
-
+### 2) Run locally
 ```bash
 npm run dev
 ```
 
-### 4) Build
-
+### 3) Build
 ```bash
 npm run build
 ```
 
 ---
 
-## 🧩 Customize (Quick Guide)
+## Customize
 
-Typical things you’ll want to update:
+All portfolio data lives in `src/config.ts`. Update it to add your own:
+- Personal info (name, email, phone, location)
+- About Me section
+- Career & Experience timeline
+- Projects / Works
+- Skills & Tools
+- Social links (LinkedIn, Instagram, etc.)
 
-- **Your name + hero section text**
-- **Projects list**
-- **Social links** (GitHub, LinkedIn, email)
-- **SEO meta title/description**
-
----
-
-## ⭐ Support
-
-If you found this useful:
-
-- Please **star** the repository (it helps a lot)
-- Share it with a friend who needs a portfolio template
-- Sponsor via the **Sponsor** button on GitHub (if available in your region)
+Drop your project showcase images into `public/images/work/`.
 
 ---
 
-## 🤝 Connect
+## Contact
 
-- LinkedIn: https://www.linkedin.com/in/red1-for-hek/
-
----
-
-## 🏷️ Recommended GitHub Topics (add in repo settings)
-
-Add these topics to improve GitHub search visibility:
-
-`portfolio` `developer-portfolio` `portfolio-website` `portfolio-template` `3d-portfolio` `react` `typescript` `threejs` `webgl` `gsap` `frontend` `vite`
+- **Email:** siddharthsahoo420@gmail.com
+- **Phone:** +91 8093632981
+- **Location:** Chandaka, Bhubaneswar, Odisha, India
+- **LinkedIn:** https://www.linkedin.com/in/swayam-siddharth-sahoo-569454263
+- **Instagram:** https://www.instagram.com/ecellnalanda
 
 ---
 
-## 🪪 License
+## License
 
 This project is open source and available under the **MIT License**. See [LICENSE](LICENSE).

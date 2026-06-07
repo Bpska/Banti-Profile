@@ -27,7 +27,11 @@ const MyWorks = () => {
           >
             <div className="myworks-card-number">0{index + 1}</div>
             <div className="myworks-card-image">
-              <img src={project.image} alt={project.title} />
+              {project.video ? (
+                <video src={project.video} autoPlay muted loop playsInline />
+              ) : (
+                <img src={project.image} alt={project.title} />
+              )}
             </div>
             <div className="myworks-card-info">
               <h3>{project.title}</h3>

@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { MdArrowOutward } from "react-icons/md";
 
 interface Props {
@@ -10,14 +10,16 @@ interface Props {
 
 const WorkImage = (props: Props) => {
   const [isVideo, setIsVideo] = useState(false);
-  const [video, setVideo] = useState("");
-  const handleMouseEnter = async () => {
+  
+  useEffect(() => {
+    if (window.innerWidth <= 768) {
+      setIsVideo(true);
+    }
+  }, []);
+
+  const handleMouseEnter = () => {
     if (props.video) {
       setIsVideo(true);
-      const response = await fetch(`src/assets/${props.video}`);
-      const blob = await response.blob();
-      const blobUrl = URL.createObjectURL(blob);
-      setVideo(blobUrl);
     }
   };
 
@@ -29,6 +31,7 @@ const WorkImage = (props: Props) => {
         onMouseEnter={handleMouseEnter}
         onMouseLeave={() => setIsVideo(false)}
         target="_blank"
+        rel="noopener noreferrer"
         data-cursor={"disable"}
       >
         {props.link && (
@@ -37,7 +40,9 @@ const WorkImage = (props: Props) => {
           </div>
         )}
         <img src={props.image} alt={props.alt} />
-        {isVideo && <video src={video} autoPlay muted playsInline loop></video>}
+        {isVideo && props.video && (
+          <video src={props.video} autoPlay muted playsInline loop></video>
+        )}
       </a>
     </div>
   );

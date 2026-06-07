@@ -21,7 +21,7 @@ export const config = {
         linkedin: "https://www.linkedin.com/in/swayam-siddharth-sahoo-569454263?utm_source=share_via&utm_content=profile&utm_medium=member_android",
         twitter: "",
         facebook: "",
-        instagram: "https://www.instagram.com/ecellnalanda"
+        instagram: "https://www.instagram.com/unbreakable_sid_?igsh=MTE1ZGZzaXpmbnFqdA=="
     },
     experiences: [
         {
@@ -82,82 +82,92 @@ export const config = {
     projects: [
         {
             id: 1,
+            title: "Creative Promo Video",
+            category: "Video Editing & Production",
+            technologies: "Premiere Pro, After Effects, CapCut",
+            image: "/images/work/nit-admission-1.jpg",
+            video: "/images/work/promo-video.mp4",
+            description: "A dynamic promotional video showcasing advanced design, video editing, and brand storytelling.",
+            link: "https://www.instagram.com/unbreakable_sid_?igsh=MTE1ZGZzaXpmbnFqdA=="
+        },
+        {
+            id: 2,
             title: "NIT Admission Open 2026-27",
             category: "Poster Design",
             technologies: "Photoshop, Illustrator, Canva",
-            image: "/images/work/nit-admission-1.webp",
+            image: "/images/work/nit-admission-1.jpg",
             description: "Admission Open 2026-27 poster for Nalanda Institute of Technology, Bhubaneswar. Lists Undergraduate (B.Tech, BBA, BCA, Diploma) and Postgraduate (M.Tech, MBA, MCA, M.Sc) programmes with NAAC A+ accreditation and contact details.",
             link: "https://www.instagram.com/nalandabbsr"
         },
         {
-            id: 2,
+            id: 3,
             title: "NIT Apply Now 2026-27",
             category: "Poster Design",
             technologies: "Photoshop, Canva",
-            image: "/images/work/nit-admission-2.webp",
+            image: "/images/work/nit-admission-2.jpg",
             description: "Apply Now 2026-27 admission poster for Nalanda Institute of Technology. Highlights 100% Guaranteed Placement and the wide range of programmes on offer.",
             link: "https://www.instagram.com/nalandabbsr"
         },
         {
-            id: 3,
+            id: 4,
             title: "NIT Programmes Offered",
             category: "Poster Design",
             technologies: "Photoshop, Illustrator",
-            image: "/images/work/nit-admission-3.webp",
+            image: "/images/work/nit-admission-3.jpg",
             description: "Programmes Offered poster for Nalanda Institute of Technology admission campaign. Highlights B.Tech, M.Tech, MBA, MCA, BBA, BCA, M.Sc, and Diploma with 100% Guaranteed Placement.",
             link: "https://www.instagram.com/nalandabbsr"
         },
         {
-            id: 4,
-            title: "Education Means Nalanda",
-            category: "Poster Design",
-            technologies: "Photoshop, Canva",
-            image: "/images/work/education-means-nalanda.webp",
-            description: "Brand awareness poster for Nalanda Institute of Technology with the tagline 'All you need is Education, & Education Means Nalanda'. Includes 80+ Acres Campus, 300+ Recruiters, 19+ Years of Excellence.",
-            link: "https://www.instagram.com/nalandabbsr"
-        },
-        {
             id: 5,
-            title: "Why Choose Management Course",
+            title: "NIT Guaranteed Campus Placement",
             category: "Poster Design",
-            technologies: "Photoshop, Canva",
-            image: "/images/work/management-course.webp",
-            description: "BBA & MBA admission poster for Nalanda Institute of Technology. Highlights industry-relevant curriculum, experienced faculty, global network opportunities, 100% placement, and 100% scholarship.",
+            technologies: "Photoshop, Illustrator, Canva",
+            image: "/images/work/nit-admission-4.jpg",
+            description: "Admission Open campaign for Nalanda Institute of Technology, Bhubaneswar focusing on Guaranteed Campus Placement and its 80+ acre campus.",
             link: "https://www.instagram.com/nalandabbsr"
         },
         {
             id: 6,
-            title: "Sai Sampurna Creation - Music Cover",
-            category: "Music Cover Art",
-            technologies: "Photoshop",
-            image: "/images/work/sai-sampurna-cover.webp",
-            description: "Music cover art designed for Sai Sampurna Creation's Odia release. Cinematic composition featuring the artist in studio and a romantic seaside scene. Credits: Singer Prabhasini Das, Lyrics Ranjita Mishra, Music Kumar Bapuni.",
-            link: "https://www.instagram.com/reel/DDUU5VyS6IG/"
+            title: "Education Means Nalanda",
+            category: "Poster Design",
+            technologies: "Photoshop, Canva",
+            image: "/images/work/education-means-nalanda.jpg",
+            description: "Brand awareness poster for Nalanda Institute of Technology with the tagline 'All you need is Education, & Education Means Nalanda'. Includes 80+ Acres Campus, 300+ Recruiters, 19+ Years of Excellence.",
+            link: "https://www.instagram.com/nalandabbsr"
         },
         {
             id: 7,
+            title: "Why Choose Management Course",
+            category: "Poster Design",
+            technologies: "Photoshop, Canva",
+            image: "/images/work/management-course.jpg",
+            description: "BBA & MBA admission poster for Nalanda Institute of Technology. Highlights industry-relevant curriculum, experienced faculty, global network opportunities, 100% placement, and 100% scholarship.",
+            link: "https://www.instagram.com/nalandabbsr"
+        },
+        {
+            id: 8,
             title: "Dil Ne Tere - Music Cover",
             category: "Music Cover Art",
             technologies: "Photoshop",
-            image: "/images/work/dil-ne-tere-cover.webp",
+            image: "/images/work/dil-ne-tere-cover.jpg",
             description: "Music cover art for Gramophone Records' 'Dil Ne Tere'. Romantic sunset composition with the artists in a recording session. Credits: Singers LP Ananya & Shailesh Sonu, Music & Lyrics Shashikant Telang.",
             link: "https://www.instagram.com/reel/DVQLMvaEZQJ/"
         },
         {
-            id: 8,
+            id: 9,
             title: "3P Creation - Sajibe Mote Bhala Paei",
             category: "Music Cover Art",
             technologies: "Photoshop",
-            image: "/images/work/3p-creation-cover.webp",
+            image: "/images/work/3p-creation-cover.jpg",
             description: "Music cover art for 3P Creation's Odia single 'Sajibe Mote Bhala Paei'. Cinematic dark composition with the duo singers. Credits: Singers Manoj Kumar S & Sneha, Lyrics B.M. Bhuyan, Music D K Hira, Producer Prativa J.",
             link: "https://www.instagram.com/3p_creation"
         },
         {
-            id: 9,
+            id: 10,
             title: "Sai Sampurna Creation - Cover 2",
             category: "Music Cover Art",
             technologies: "Photoshop",
-            image: "/images/work/sai-sampurna-cover-2.webp",
+            image: "/images/work/sai-sampurna-cover-2.jpg",
             description: "Alternate music cover for a Sai Sampurna Creation Odia release. Atmospheric composition with a temple-and-seaside theme. Credits: Singer Prabhasini Das, Lyrics Ranjita Mishra, Music Kumar Bapuni, Recording SRM Studio.",
             link: "https://www.instagram.com/reel/DDUU5VyS6IG/"
         }

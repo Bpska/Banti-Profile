@@ -85,14 +85,16 @@
   overflow: hidden;
 }
 
-.myworks-card-image img {
+.myworks-card-image img,
+.myworks-card-image video {
   width: 100%;
   height: 100%;
   object-fit: cover;
   transition: transform 0.3s ease;
 }
 
-.myworks-card:hover .myworks-card-image img {
+.myworks-card:hover .myworks-card-image img,
+.myworks-card:hover .myworks-card-image video {
   transform: scale(1.05);
 }
 
